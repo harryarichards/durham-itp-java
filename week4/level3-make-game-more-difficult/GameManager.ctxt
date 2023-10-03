@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=upperLimit
+comment0.target=void\ playMultipleGames(int)
+comment1.params=upperLimit
+comment1.target=void\ playMultipleComputerGames(int)
+comment2.params=upperLimit\ randomNumber
+comment2.target=void\ playHiLo2(int,\ int)
+comment3.params=upperComputerLimit\ randomNumber
+comment3.target=void\ computerPlayerGame2(int,\ int)
+comment4.params=upperLimit2
+comment4.target=void\ playVsComputer(int)
+comment5.params=
+comment5.target=void\ alterDifficulty()
+numComments=6

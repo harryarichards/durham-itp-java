@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=person\ ID\ loanLimit
+comment0.target=LibraryMember(Person,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getLibraryID()
+comment2.params=
+comment2.target=Person\ getPerson()
+comment3.params=book
+comment3.target=void\ loanBook(Book)
+comment4.params=book
+comment4.target=void\ returnBook(Book)
+comment5.params=
+comment5.target=void\ booksOnLoan()
+numComments=6

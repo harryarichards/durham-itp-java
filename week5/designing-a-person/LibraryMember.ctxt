@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LibraryMember()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LibraryMember\r\n
+comment1.params=person\ ID\ loanLimit
+comment1.target=void\ addLibraryMember(Person,\ java.lang.String,\ int)
+numComments=2

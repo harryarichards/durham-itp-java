@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Calculation()
+comment1.params=x\ y
+comment1.target=void\ getMaximumXY(double,\ double)
+comment10.params=numberOfPence
+comment10.target=void\ minumumNumberOfCoins(int)
+comment11.params=day\ month\ year
+comment11.target=void\ getDayForDate(int,\ int,\ int)
+comment2.params=x\ y
+comment2.target=void\ getAverageXY(double,\ double)
+comment3.params=x\ y
+comment3.target=void\ swapXY(double,\ double)
+comment4.params=x
+comment4.target=void\ convertCelciusToFarenheit(double)
+comment5.params=
+comment5.target=void\ hoursInAWeek()
+comment6.params=
+comment6.target=void\ secondsInAYear()
+comment7.params=a\ b\ c
+comment7.target=void\ quadraticSolver(double,\ double,\ double)
+comment8.params=a
+comment8.target=void\ isItOdd(int)
+comment9.params=a
+comment9.target=void\ separateDate(java.lang.String)
+numComments=12
